@@ -17,6 +17,7 @@ GO
 ----------------------
 
 請在appsettings.json 修改連線字串，輸入相對應的資料如下:
+
 "ConnectionStrings": {
     "Sample": "Server=YourLocalDB;Database=YourDatabase;User Id=YourID;Password=YourPassword;"
   }
